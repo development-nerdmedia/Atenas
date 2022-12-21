@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fa3f0748.css",
+    "main.js": "/static/js/main.99a97d5d.js",
+    "static/js/787.32b06248.chunk.js": "/static/js/787.32b06248.chunk.js",
+    "static/media/atenas4.png": "/static/media/atenas4.a9621e717a1ed2f98cdc.png",
+    "static/media/item-2.png": "/static/media/item-2.f20edddd9a5e6ab755c4.png",
+    "static/media/fotoenmarco.png": "/static/media/fotoenmarco.dee4baa82d73c425d979.png",
+    "static/media/item-4.png": "/static/media/item-4.042979b2fca8460d523d.png",
+    "static/media/atenas3.jpg": "/static/media/atenas3.e067caa747e4b9d6f280.jpg",
+    "static/media/atenas1.png": "/static/media/atenas1.a9c99e870fa463d97d55.png",
+    "static/media/item-3.png": "/static/media/item-3.0f1b67b069fd8fe878c1.png",
+    "static/media/atenas5.png": "/static/media/atenas5.c1a3dcf9efb74a71be2d.png",
+    "static/media/item-1.png": "/static/media/item-1.d9459e58dbf4cfbadd37.png",
+    "static/media/icon-web1.svg": "/static/media/icon-web1.5c400cb01408e8ccb10319baff64cbf8.svg",
+    "static/media/icon-web.svg": "/static/media/icon-web.90c8b50e81d0176f05d96f37e8786620.svg",
+    "static/media/icon-diseño1.svg": "/static/media/icon-diseño1.8945fd4a35b104fe50400009c95a55c9.svg",
+    "static/media/iconnerd.svg": "/static/media/iconnerd.95b4438ed11cc0840c16ab21f4e9cc18.svg",
+    "static/media/logo-atenas.svg": "/static/media/logo-atenas.45020fe799bfb646de877c0b30dbb719.svg",
+    "static/media/icon-diseño.svg": "/static/media/icon-diseño.c156b1dc2cb7a19abee76c7397c9efc6.svg",
+    "index.html": "/index.html",
+    "static/media/flechaselect2.svg": "/static/media/flechaselect2.c8be38b347dab989e7d2.svg",
+    "static/media/flechaselect.svg": "/static/media/flechaselect.162e0d7acdb01e7d1718.svg",
+    "static/media/flecha.svg": "/static/media/flecha.d756f4b53928ee320e9a51e2cd91ae2d.svg",
+    "main.fa3f0748.css.map": "/static/css/main.fa3f0748.css.map",
+    "main.99a97d5d.js.map": "/static/js/main.99a97d5d.js.map",
+    "787.32b06248.chunk.js.map": "/static/js/787.32b06248.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa3f0748.css",
+    "static/js/main.99a97d5d.js"
+  ]
+}
